@@ -1,2 +1,2 @@
-# Grow-Me-Organic-Parser
-Script for uploding companies data from Growmeorganic.com
+# Grow-Me-Organic-Parser-B2B
+Script for uploding B2B companies data from Growmeorganic.com
